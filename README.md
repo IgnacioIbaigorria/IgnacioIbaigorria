@@ -44,7 +44,7 @@ Apasionado por crear soluciones digitales que sean escalables, mantenibles y con
 
 ## 📂 Repositorios Destacados
 
-🔹 [Sistema de Ventas e Inventario](https://github.com/IgnacioIbaigorria/liss-sin-tacc-desktop) — Gestión de productos, ventas y reportes.  
+🔹 [Sistema de Ventas e Inventario](https://github.com/IgnacioIbaigorria/liss_sin_tacc_desktop) — Gestión de productos, ventas y reportes.  
 🔹 [Sistema de gestión de loterías](https://github.com/IgnacioIbaigorria/lottery) — Gestión de números, sorteos, compras integradas.  
 
 *(Más proyectos en mi [portfolio](https://portfolio-ignacio-one.vercel.app/))*  
