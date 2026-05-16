@@ -2,9 +2,9 @@
   
 # 👋 Hola, soy Ignacio Ibaigorria  
 
-💻 **Fullstack Developer** con **+4 años de experiencia** desarrollando aplicaciones web, móviles y de escritorio.  
-Apasionado por crear soluciones digitales que sean escalables, mantenibles y con foco en la experiencia de usuario.  
+💻 **Fullstack Developer** especializado en el desarrollo de aplicaciones móviles, con experiencia en soluciones web y de escritorio.
 
+Apasionado por crear soluciones digitales que sean escalables, mantenibles y con foco en la experiencia de usuario.
 ---
 
 ## 🚀 Tecnologías y Herramientas
